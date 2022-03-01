@@ -2,7 +2,6 @@
 
 ## I'm a Front-end Developer!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning vanilla JavaScript and React
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to draw and science fiction
