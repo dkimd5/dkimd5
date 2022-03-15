@@ -26,5 +26,5 @@
 
 [![Telegram badge](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=black&style=for-the-badge)](tg://resolve?domain=kim_en_su)
 [![WhatsApp badge](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+79169143677)
-[![VK badge](https://img.shields.io/badge/-Vkontakte-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/dimonkim777)
+[![VK badge](https://img.shields.io/badge/-Vkontakte-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/kim_en_su)
 [![Instagram badge](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kim_en_su/)
